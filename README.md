@@ -1,1 +1,1 @@
-# javascript
+# javascript, aprendizado. "Jogo"
